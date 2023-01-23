@@ -5,6 +5,6 @@ resource "aws_instance" "example" {
  
   
   tags = {
-    Name = "Sample"
+    Name = "Linux_amazon"
   }
 }
